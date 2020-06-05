@@ -11,8 +11,7 @@ Introduction to excel
  
  ### Voyant Tools 
  
-link to site https://suppahhacka.github.io/week-4/ 
 
-Explore 
-
-<div><iframe style='width: 637px; height: 487px;' src='https://service.sadilar.org/voyant/tool/WordTree/?stopList=keywords-37c535a1b44ff22c46ad5c5e5cae54aa&query=new&corpus=9492212aae922de31dfffac6101cbc6d'></iframe></div>
+<div>
+<iframe style='width: 637px; height: 487px;' src='https://service.sadilar.org/voyant/tool/WordTree/?stopList=keywords-37c535a1b44ff22c46ad5c5e5cae54aa&query=new&corpus=9492212aae922de31dfffac6101cbc6d.html'></iframe>
+</div>
