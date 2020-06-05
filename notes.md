@@ -10,9 +10,12 @@ Introduction to excel
  
  
  ### Voyant Tools 
+ - Below, I tried to get the voyant html snippet to display the widget I created in Voyant. I tried looking online, going into discord to find what I did wrong but everything seems to match up? 
+   - The likelihood is that the html file is the problem. I am not sure if I need to have anything inside that html file but I decided I can always try it again in week 5 if I have the time.
+   
 https://suppahhacka.github.io/week-4/
 
 <div>
-<iframe style='width: 637px; height: 487px;' src='https://service.sadilar.org/voyant/tool/WordTree/blah.html/?stopList=keywords-37c535a1b44ff22c46ad5c5e5cae54aa&query=new&corpus=9492212aae922de31dfffac6101cbc6d'></iframe>
+<iframe style='width: 637px; height: 487px;' src='https://service.sadilar.org/voyant/tool/WordTree/blah.html/></iframe>
 </div>
 
