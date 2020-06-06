@@ -14,7 +14,11 @@ How digital historians argue history.
 When it comes to historical arguments, I have learned that there are two parties on the same side but on a different mission. 
 - One group, the digital historians, argue historical evidence through the use of digital tools. Traditional historians are hardpressed to participate in these methods. 
 - The biggest question is: how do digital historians make their case within the context of historical arguments? 
-  - I believe it is within the transparency of the information you present. It is east to claim monstrous things when you are using technology. It also makes it easier to present the information in a way that gives the author more credit than it is due. 
-     - For this reason, it is in the favour of digital historians to preserve the historical evidence when digitizing it such that everyone has equal access within the sake of argumentation. 
+  - I believe it is within the transparency of the information you present. It is easy to claim monstrous things when you are using technology. It also makes it easier to present the information in a way that gives the author more credit than it is due. 
+     - For this reason, it is in the favour of digital historians to preserve the historical evidence when digitizing it such that it remains neutral and is presented with authenticity. Fabrication of material is far too easy to come by nowadays. 
 
-- Additionaly, I believe that what is missing within
+- Additionaly, I believe that what is missing within the historical argumentation are the conversations distorians (digital historians) should be having with historians about their work. By engaging in conversations, the expertise of both parties are shared and distorians can further advance their arguments by ensuring historians are on board with the accuracy and preservation of the information that is carried through the internet. 
+
+# Conclusion
+
+In a way, the fact the internet exists is digital history in itself. Soon, there will be a time where distorians get to crunching numbers and filtering historical nonsense fabricated by the bystanders of the internet community who peruse Reddit and 4chan to spread their content. 
