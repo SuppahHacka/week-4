@@ -1,4 +1,4 @@
-#Week 4 thoughts
+# Week 4 thoughts
 
 Although I did not complete all the tasks that were available, I still had time for self-reflection.
 
