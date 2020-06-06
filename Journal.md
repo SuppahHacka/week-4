@@ -18,6 +18,7 @@ When it comes to historical arguments, I have learned that there are two parties
      - For this reason, it is in the favour of digital historians to preserve the historical evidence when digitizing it such that it remains neutral and is presented with authenticity. Fabrication of material is far too easy to come by nowadays. 
 
 - Additionaly, I believe that what is missing within the historical argumentation are the conversations distorians (digital historians) should be having with historians about their work. By engaging in conversations, the expertise of both parties are shared and distorians can further advance their arguments by ensuring historians are on board with the accuracy and preservation of the information that is carried through the internet. 
+ - It is easy to misrepresent data as I have expressed before. Historians also have to hold distorians accountable for the work they produce, in order to ensure it is well representative of the context it is revealing. 
 
 # Conclusion
 
